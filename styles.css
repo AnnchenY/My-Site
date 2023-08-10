@@ -27,10 +27,8 @@ h1 {
     font-size: 4.5rem;
 }
 
-h2{
-    font-family: "Montserrat", sans-serif;
+.programmer {
     color: #0E2954;
-    font-size: 2rem;
 }
 
 h3 {
@@ -57,7 +55,7 @@ p {
     justify-content: center;
 }
 
-h2 > span {
+h3 > span {
     text-decoration: underline;
 }
 
